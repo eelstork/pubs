@@ -26,7 +26,7 @@ One the features of Darwin's Nightmare is the use of evolutionary computation to
 
 ## Talks
 
-**[F*, an Anti-Pattern for Sustainable software development](https://www.slideshare.net/eelstork/the-fstar-metapattern-english-only)** - Beijing Perl Workshop 2009
+**[F*, an anti-pattern for sustainable software development](https://www.slideshare.net/eelstork/the-fstar-metapattern-english-only)** - Beijing Perl Workshop 2009
 
 
 
