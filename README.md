@@ -1,4 +1,4 @@
-# Publications (T.E.A de Souza)
+# Publications
 
 ## Academic
 
