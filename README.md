@@ -22,6 +22,7 @@ Since Isla's seminal article, behavior trees (BT) have become a well recognized 
 Even so, a game logic programmer may not immediately perceive their usefulness, and AI engineers may occasionally tell you that they aren't really game AI \[...\]; I discuss stateless vs stateful control and the key decisions informing the design of our BT library.
 
 **[The blind game designer: darwinism in a fast paced, casual action game](https://www.gamasutra.com/blogs/ThibaudDeSouza/20140421/215874/The_Blind_Game_Designer__Darwinism_in_a_fast_pace_casual_action_game.php)** - 2014 (T. de Souza)
+
 One the features of Darwin's Nightmare is the use of evolutionary computation to drive the exploration of a large combinatorial space defining the behaviour and appearance of enemy crafts. In this game, all enemy craft designs are obtained by varying a unique genotype: whenever a new ship appears on the screen, individuals are selected from a mating pool and their digital DNA is recombined to create a new type. 
 
 ## Talks
