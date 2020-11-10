@@ -2,7 +2,7 @@
 
 ## Academic
 
-**[Implementing Behavior trees using three valued logic](https://arxiv.org/abs/2011.03835)** (T. de Souza; preprint) 
+**[Implementing Behavior trees using three valued logic](https://arxiv.org/abs/2011.03835)** -2020 (T. de Souza; preprint) 
 
 With consideration to behavior trees and their relevance to planning and control, within and without game development, the distinction between stateful and stateless models is discussed; a three-valued logic bridging traditional control flow with behavior trees is introduced, and a C# implementation is presented.
 
